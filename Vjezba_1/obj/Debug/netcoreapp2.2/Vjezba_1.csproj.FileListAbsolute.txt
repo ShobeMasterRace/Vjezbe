@@ -1,0 +1,11 @@
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\bin\Debug\netcoreapp2.2\Vjezba_1.deps.json
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\bin\Debug\netcoreapp2.2\Vjezba_1.runtimeconfig.json
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\bin\Debug\netcoreapp2.2\Vjezba_1.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\bin\Debug\netcoreapp2.2\Vjezba_1.dll
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\bin\Debug\netcoreapp2.2\Vjezba_1.pdb
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\obj\Debug\netcoreapp2.2\Vjezba_1.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\obj\Debug\netcoreapp2.2\Vjezba_1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\obj\Debug\netcoreapp2.2\Vjezba_1.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\obj\Debug\netcoreapp2.2\Vjezba_1.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\obj\Debug\netcoreapp2.2\Vjezba_1.dll
+C:\Users\Danilo\source\repos\Vjezba_1\Vjezba_1\obj\Debug\netcoreapp2.2\Vjezba_1.pdb
