@@ -1,0 +1,11 @@
+C:\Users\Danilo\source\repos\Zadatak_Array\obj\Debug\netcoreapp2.2\Zadatak_Array.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Zadatak_Array\obj\Debug\netcoreapp2.2\Zadatak_Array.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Zadatak_Array\obj\Debug\netcoreapp2.2\Zadatak_Array.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Zadatak_Array\obj\Debug\netcoreapp2.2\Zadatak_Array.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Zadatak_Array\bin\Debug\netcoreapp2.2\Zadatak_Array.deps.json
+C:\Users\Danilo\source\repos\Zadatak_Array\bin\Debug\netcoreapp2.2\Zadatak_Array.runtimeconfig.json
+C:\Users\Danilo\source\repos\Zadatak_Array\bin\Debug\netcoreapp2.2\Zadatak_Array.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\Zadatak_Array\bin\Debug\netcoreapp2.2\Zadatak_Array.dll
+C:\Users\Danilo\source\repos\Zadatak_Array\bin\Debug\netcoreapp2.2\Zadatak_Array.pdb
+C:\Users\Danilo\source\repos\Zadatak_Array\obj\Debug\netcoreapp2.2\Zadatak_Array.dll
+C:\Users\Danilo\source\repos\Zadatak_Array\obj\Debug\netcoreapp2.2\Zadatak_Array.pdb
