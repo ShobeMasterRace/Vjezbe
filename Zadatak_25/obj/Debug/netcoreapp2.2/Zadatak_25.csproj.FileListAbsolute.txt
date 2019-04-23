@@ -1,0 +1,11 @@
+C:\Users\Danilo\source\repos\Zadatak_25\bin\Debug\netcoreapp2.2\Zadatak_25.deps.json
+C:\Users\Danilo\source\repos\Zadatak_25\bin\Debug\netcoreapp2.2\Zadatak_25.runtimeconfig.json
+C:\Users\Danilo\source\repos\Zadatak_25\bin\Debug\netcoreapp2.2\Zadatak_25.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\Zadatak_25\bin\Debug\netcoreapp2.2\Zadatak_25.dll
+C:\Users\Danilo\source\repos\Zadatak_25\bin\Debug\netcoreapp2.2\Zadatak_25.pdb
+C:\Users\Danilo\source\repos\Zadatak_25\obj\Debug\netcoreapp2.2\Zadatak_25.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Zadatak_25\obj\Debug\netcoreapp2.2\Zadatak_25.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Zadatak_25\obj\Debug\netcoreapp2.2\Zadatak_25.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Zadatak_25\obj\Debug\netcoreapp2.2\Zadatak_25.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Zadatak_25\obj\Debug\netcoreapp2.2\Zadatak_25.dll
+C:\Users\Danilo\source\repos\Zadatak_25\obj\Debug\netcoreapp2.2\Zadatak_25.pdb
