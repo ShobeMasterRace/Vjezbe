@@ -14,23 +14,55 @@ namespace Zadatak_Array.Usporedba
 
         }
 
-        public void Usporedi(int[] prvi, int[] drugi)
+        public bool Usporedi(int[] prvi, int[] drugi)
         {
-            if (prvi == drugi)
-            {
-                Console.WriteLine("Very true");
 
+
+            if (prvi.Length == drugi.Length)
+            {
+                Console.WriteLine("Duljina array-a je ista");
+                return true;
 
             }
             else
             {
-                Console.WriteLine("These two mf's don't match lmao");
-
+                Console.WriteLine("Duljina array-a nije ista");
+                return false;
 
 
             }
 
 
+
+        }
+
+        public bool Usporedi_dalje(int[] prvi, int[] drugi)
+        {
+            for (int i = 0; i < prvi.Length; i++)
+            {
+                if (prvi[i] == drugi[i])
+                {
+                    Console.WriteLine("Iste vrijednosti");
+                    return true;
+
+
+
+                }
+
+                else
+                {
+
+                    Console.WriteLine("Različite vrijednosti");
+                    return false;
+
+
+
+                }
+
+            }
+
+
+            return true;
 
         }
 

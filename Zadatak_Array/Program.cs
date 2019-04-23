@@ -33,6 +33,7 @@ namespace Zadatak_Array
 
             Klasatri Klatri = new Klasatri();
             Klatri.Usporedi(prvi, drugi);
+            Klatri.Usporedi_dalje(prvi, drugi);
 
             TekstFile Teks = new TekstFile();
             Teks.Napravi(prvi, drugi);
