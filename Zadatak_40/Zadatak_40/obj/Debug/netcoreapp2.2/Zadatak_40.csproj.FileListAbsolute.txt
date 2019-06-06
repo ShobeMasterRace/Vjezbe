@@ -1,0 +1,11 @@
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\bin\Debug\netcoreapp2.2\Zadatak_40.deps.json
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\bin\Debug\netcoreapp2.2\Zadatak_40.runtimeconfig.json
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\bin\Debug\netcoreapp2.2\Zadatak_40.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\bin\Debug\netcoreapp2.2\Zadatak_40.dll
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\bin\Debug\netcoreapp2.2\Zadatak_40.pdb
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\obj\Debug\netcoreapp2.2\Zadatak_40.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\obj\Debug\netcoreapp2.2\Zadatak_40.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\obj\Debug\netcoreapp2.2\Zadatak_40.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\obj\Debug\netcoreapp2.2\Zadatak_40.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\obj\Debug\netcoreapp2.2\Zadatak_40.dll
+C:\Users\Danilo\source\repos\Zadatak_40\Zadatak_40\obj\Debug\netcoreapp2.2\Zadatak_40.pdb
