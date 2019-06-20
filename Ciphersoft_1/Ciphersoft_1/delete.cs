@@ -16,11 +16,18 @@ namespace Ciphersoft_1
 
         public void deleting()
         {
-            Console.WriteLine("Enter a team you wish to delete: ");
-            string userinput = Console.ReadLine();
-            teams.Remove(userinput);
-            foreach (var item in teams)
-            Console.Write(item.ToString() + " ");
+            //Console.WriteLine("4. Izbriši User-a");
+            //Console.WriteLine("----------------");
+
+            //Console.WriteLine("Upišite ID User-a kojeg želite izbrisati:  ");
+
+            //string userinput = Console.ReadLine();
+
+            //?skup?.Remove(userinput);
+
+            //foreach (var item in ?skup?)
+
+            //Console.Write(item.ToString() + " ");
 
 
 

@@ -15,6 +15,9 @@ namespace Ciphersoft_1
 
         public void adding()
         {
+            Console.WriteLine("1. Dodaj User-a");
+            Console.WriteLine("----------------");
+
 
             string ime;
             string prezime;
