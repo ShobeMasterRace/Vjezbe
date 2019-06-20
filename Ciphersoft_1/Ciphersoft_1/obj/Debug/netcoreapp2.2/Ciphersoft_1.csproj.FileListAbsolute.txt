@@ -1,0 +1,11 @@
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\bin\Debug\netcoreapp2.2\Ciphersoft_1.deps.json
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\bin\Debug\netcoreapp2.2\Ciphersoft_1.runtimeconfig.json
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\bin\Debug\netcoreapp2.2\Ciphersoft_1.runtimeconfig.dev.json
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\bin\Debug\netcoreapp2.2\Ciphersoft_1.dll
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\bin\Debug\netcoreapp2.2\Ciphersoft_1.pdb
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\obj\Debug\netcoreapp2.2\Ciphersoft_1.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\obj\Debug\netcoreapp2.2\Ciphersoft_1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\obj\Debug\netcoreapp2.2\Ciphersoft_1.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\obj\Debug\netcoreapp2.2\Ciphersoft_1.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\obj\Debug\netcoreapp2.2\Ciphersoft_1.dll
+C:\Users\Danilo\source\repos\Ciphersoft_1\Ciphersoft_1\obj\Debug\netcoreapp2.2\Ciphersoft_1.pdb
