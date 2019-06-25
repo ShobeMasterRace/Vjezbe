@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciphersoft1_1", "Ciphersoft1_1\Ciphersoft1_1.csproj", "{A2982044-8475-4912-BB2A-F61905AA6EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2982044-8475-4912-BB2A-F61905AA6EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2982044-8475-4912-BB2A-F61905AA6EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2982044-8475-4912-BB2A-F61905AA6EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2982044-8475-4912-BB2A-F61905AA6EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD350BF9-59F7-4545-BF13-8EBA51CCA491}
+	EndGlobalSection
+EndGlobal
